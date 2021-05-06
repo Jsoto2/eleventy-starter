@@ -53,13 +53,14 @@ text-decoration: none;
 letter-spacing:2px;
 font-weight: 500;
 }
-header
+header 
 {
+background-color:black;
 position:fixed;
 top:0;
 left:0;
 width:100%;
-padding:40px 100px;
+padding:10px 100px;
 z-index: 1000;
 display: flex;
 justify-content: space-between;
@@ -121,8 +122,13 @@ font-size:30px;
 }
 .content
 {
+position: relative
+min-height: 100vh;
+padding:50px 100px;
 display: flex;
-justify-content: space-between;
+justify-self: center;
+align-items:center;
+flex-direction:column;
 }
 .contentBx
 {
@@ -263,4 +269,8 @@ border:none;
 outline: none;
 background:#222;
 color: #fff;
+}
+/*======GALLERY PAGE=====*/
+.gallery h2{
+
 }
