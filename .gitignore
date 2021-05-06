@@ -104,3 +104,4 @@ dist
 .tern-port
 _site/.DS_Store
 _site/images/.DS_Store
+.DS_Store
