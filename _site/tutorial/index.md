@@ -23,17 +23,18 @@ ISO</a></h2>
 <p>How does Shutter Speed work</p>
 </div>
 <div class="servicesBx">
-<h2><a href="/tutorial/aperture">Aperture</h2>
+<h2><a href="/tutorial/aperture">Aperture</a></h2>
 <p></p>
 </div>
 <div class="servicesBx">
-<h2><a href="/tutorial/ruleofthird">Rule of Third</h2>
+<h2><a href="/tutorial/ruleofthird">Rule of Third</a></h2>
 <p></p>
 </div>
 <div class="servicesBx">
-<h2><a href="/tutorial/exposure">Exposure</h2>
+<h2><a href="/tutorial/exposure">Exposure</a></h2>
 <p></p>
 </div>
 <div class="servicesBx">
-<h2><a href="/tutorial/len">Lens</h2>
+<h2><a href="/tutorial/len">Lens</a></h2>
 <p>Why are lens improtant</h2>
+</div>
