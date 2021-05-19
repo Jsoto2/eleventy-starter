@@ -12,6 +12,8 @@ tags:
 <h2>Gallery</h2>
 <p>Photos I have taken</p>
 </section>
+<!-- Gallery -->
+
 
 <!-- grid container -->
 <div class="gallery">
