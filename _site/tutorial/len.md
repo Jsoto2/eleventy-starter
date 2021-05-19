@@ -1,31 +1,49 @@
 ---
-title: ISO
+title: shutterspeed
 date: Created
 layout: page
 tags:
-  - tutorials
+- tutorials
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>len</title>
-<link rel="stylesheet" href="https://maxcdn.bootsrapcdn.com/bootstrap/3.4.1/css/bootstrao.min.css">
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
+
 
 <div class="container">
-<div class="description-container">
+<div class="row pt-4">
 
-<img src=/images/iso.jpg alt="" class="img-responsive floating-image right">
-<h3>What does ISO mean?</h3>
-<p>Perhaps you have heard this term before, but not many know what the ISO abbreviation actually means. The acronym ‘ISO’ stands for International Organization for Standardization, a group that has created tens of thousands of technology and product standards, including those for film sensitivity.Back in the days of traditional film photography, ISO referred to the film’s sensitivity to light. You may have seen rolls of film with a 100, 200, or 400 ISO. The lower the number, the lower the sensitivity of the film.So, if you were shooting outside in bright daylight, you would buy ISO 100 film knowing that it would be exposed to a lot of sun.Alternatively, if you were planning to photograph an indoor event, you would buy ISO 400 film to capture brighter photos in a darker space. When the industry made the switch to digital, the term ISO was adopted to describe the sensitivity of the camera’s sensor, since it replaced film in cameras.</p>
+<div class="container-item col-sm-6">
+  <h3>Are Lenses Really That Important?</h3>
+  <p>As long as you get along with your lenses, you’ll find that you update your camera body rather than your glass. The cameras change in resolution, features and a great many other ways.The lenses you own today could well be the ones you own for the longest period of time. If you look after them, they will last a lifetime.A camera has shutter actuations, meaning a shelf life. But once you find that great lens, you’ll want to hold on to it.</p>
+</div>
+<div class="container-item col-sm-6">
+  <img src="/images/len3.jpg" alt="" class="img-responsive">
+</div>
+</div>
+<div class="row mb-4 ">
+    <div class="container-item col-sm-6">
+      <img src="/images/len4.jpg" alt="" class="img-responsive ">
+  </div>
+  <div class="container-item col-sm-6">
 
-<img src=/images/iso2.jpg alt="" class="img-responsive floting-image left">
-<h3>How does ISO affect your photographs?</h3>
-<p>To understand how changing your ISO setting will affect your photographs, it help to look at the exposure triangle.Each of the three elements of the triangle works together to basicaly lighten or darken your image. When you ajust one of them, the other two are also affected. In the case of ISO, you'll always want to stick to the lowest number possible. When a high aperture is needed or when your subject is in motion and you have to decide between a blurry or a bit of noise,you bump your shutter speed.Don't worry if this is a bit confusing, we'll give you some scenarios a little later.</p>
+  <h3>What Does a Camera Lens Do?</h3>
+    <p>A lens is a device that contains lens elements. These elements are shaped glass pieces that bend light in specific ways. Each element within the lens has a different function, and they work together in harmony.They do this by helping light beams focus. It sounds simple, but designing and building these lenses is very complicated. Science and mathematics all the way.One of the biggest challenges with a lens is the need for sharpness across the entire width of your scene. This includes the corners.And then you also have zoom lenses. These have to focus light rays to converge and focus at an array of different focal lengths. We won’t go into that here. Just know this – lens designers and creators are amazingly smart.</p>
+  </div>
+</div>
+<div class="row mb-3">
+  <div class="container-item col-sm-6">
+    <h3>Lens Apertures</h3>
+    <p>Aperture is another reason why photographers choose one lens over others. The word aperture means opening, and describes the size of the hole in a lens.This is where the light passes through, making its way to the camera sensor.Apertures might seem a little strange. They are a fraction of the focal length of a lens. We see f-stops written as f/2 or f/11.The ‘f’ in f-stop comes from focal length. The preceding slash is a mathematical expression of the pupil’s diameter.If a lens’s focal length is 10 mm and its entrance pupil diameter is 5 mm, the f-number is 2.The fractions are important here. If you are capturing a scene with a 100 mm focal length lens at f/2, the diameter of your lens is 50 mm across.Likewise, if you’re shooting at f/4, then the diameter is 100/4 = 25 mm.The f-number gets bigger but the aperture gets smaller. This is important, but normal as we are talking about fractions. F/2 is bigger than f/4, which is bigger than f/8.</p>
+  </div>
+  <div class="container-item col-sm-6">
+  <h3>Focusing a Lens</h3>
+  <p>All lenses have some sort of way to focus the scene in front of you. If you’re looking for a technical definition, the focus is “the point where light rays originating from a point on the object converge”.An area of your image needs to be in focus. Perhaps you were to capture a tree. To gain a sharp focus, the light rays from that dot need to hit as few pixels as possible on your digital sensor.When it comes to your image, there are areas in focus and areas out-of-focus. If you see sharp edges on an object, the object can be said to be in focus.Focusing happens within the lens. This happens by moving one or more lens elements closer to or farther away from your camera’s imaging sensor.The lens ‘bends’ the light and forces it to converge at different distances from the sensor.The ideal convergence needs to fall exactly on your imaging chip. When you achieve that, you have a perfectly focused image or subject.</p>
+  </div>
+</div>
 
-<h3>What is ISO in photograph</h3>
-<p>It still is a camera setting, but play with it can give your photographs a different look.There's always a trade-off between a higher ISO value and the nosie level of the photoshoot.Raising your ISO will always add grain to your photos, also referred to as noise in the previous sentence, so the resulting photo might not be as crisp and sharp as you'd like, thus, rendering it unusable. You should only raise your ISO when you are unable to brighten the photo via shutter speed or apertue instead (for example, if using a longer shutter speed would cause your subject to be blurry). That said, there are plenty of times when you'll need to use a high ISO to compensate for low light.</p>
+  </div>
+  <!-- end contanter -->
+
+
+
+
+  

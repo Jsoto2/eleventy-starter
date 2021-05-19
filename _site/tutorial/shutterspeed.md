@@ -1,47 +1,44 @@
 ---
-title: ISO
+title: shutterspeed
 date: Created
 layout: page
 tags:
-  - tutorials
+- tutorials
 
 ---
 
 
 <div class="container">
-<div class="row">
-<div class="container-item col-sm-6">
-<h3>What does ISO mean?</h3>
-<p>Perhaps you have heard this term before, but not many know what the ISO abbreviation actually means. The acronym ‘ISO’ stands for International Organization for Standardization, a group that has created tens of thousands of technology and product standards, including those for film sensitivity.Back in the days of traditional film photography, ISO referred to the film’s sensitivity to light. You may have seen rolls of film with a 100, 200, or 400 ISO. The lower the number, the lower the sensitivity of the film.So, if you were shooting outside in bright daylight, you would buy ISO 100 film knowing that it would be exposed to a lot of sun.Alternatively, if you were planning to photograph an indoor event, you would buy ISO 400 film to capture brighter photos in a darker space. When the industry made the switch to digital, the term ISO was adopted to describe the sensitivity of the camera’s sensor, since it replaced film in cameras.</p>
+<div class="row pt-4">
 
-  </div>
-  <div class="container-item col-sm-6">
-<img src=/images/iso.jpg alt="" class="img-responsive">
-  </div> 
-  </div>
-  <div class="row">
-  <div class="container-item col-sm-6">
-
-<img src=/images/iso2.jpg alt="" class="img-responsive ">
-  </div> 
-<h3>How does ISO affect your photographs?</h3>
-   <div class="container-item col-sm">
-<p>To understand how changing your ISO setting will affect your photographs, it help to look at the exposure triangle.Each of the three elements of the triangle works together to basicaly lighten or darken your image. When you ajust one of them, the other two are also affected. In the case of ISO, you'll always want to stick to the lowest number possible. When a high aperture is needed or when your subject is in motion and you have to decide between a blurry or a bit of noise,you bump your shutter speed.Don't worry if this is a bit confusing, we'll give you some scenarios a little later.</p>
+<div class="container-item col-sm-6">
+  <h3>What is Shutter Speed?</h3>
+  <p>The shutter speed is the amount of time the camera’s shutter remains open when taking a photo controls the amount of time that we capture light for and allows us to freeze or blur motion.Shutter speed is the length of time the camera shutter is open, exposing light onto the camera sensor. Essentially, it’s how long your camera spends taking a photo. This has a few important effects on how your images will appear.When you use a long shutter speed (also known as a “slow” shutter speed), you end up exposing your sensor for a significant period of time. The first big effect of it is motion blur. If your shutter speed is long, moving subjects in your photo will appear blurred along the direction of motion.</p>
+</div>
+<div class="container-item col-sm-6">
+  <img src="/images/shutterspeed2.jpg" alt="" class="img-responsive">
 </div>
 </div>
-<div class="row">
-  <div class="container-item col-sm-6">
-    <h3>What is ISO in photograph</h3>
+<div class="row mb-4 ">
+    <div class="container-item col-sm-6">
+      <img src="/images/shutterspeed3.jpg" alt="" class="img-responsive ">
+  </div>
+  <div class="container-item col-sm-6">
 
-  <p>It still is a camera setting, but play with it can give your photographs a different look.There's always a trade-off between a higher ISO value and the nosie level of the photoshoot.Raising your ISO will always add grain to your photos, also referred to as noise in the previous sentence, so the resulting photo might not be as crisp and sharp as you'd like, thus, rendering it unusable. You should only raise your ISO when you are unable to brighten the photo via shutter speed or apertue instead (for example, if using a longer shutter speed would cause your subject to be blurry). That said, there are plenty of times when you'll need to use a high ISO to compensate for low light.</p>
+  <h3>The Exposure Triangle</h3>
+    <p>Aperture, shutter speed, and ISO make up the three sides of the exposure triangle. They work together to produce a photo that is properly exposed. If one variable changes, at least one of the others must also change to maintain the correct exposure.</p>
+  </div>
+</div>
+<div class="row mb-3">
+  <div class="container-item col-sm-6">
+    <h3>How Shutter Speed is Measured</h3>
+    <p>Shutter speeds are typically measured in fractions of a second when they are under a second. For example, 1/4 means a quarter of a second, while 1/250 means one-two-hundred-and-fiftieth of a second (or four milliseconds).Most modern DSLRs and mirrorless cameras can handle shutter speeds of 1/4000th of a second at the fastest, while some can handle even quicker speeds of 1/8000th of a second and faster. On the other hand, the longest available shutter speed on most DSLRs or mirrorless cameras is typically 30 seconds. You can use a longer shutter speed by using external remote triggers, if necessary.</p>
+  </div>
+  <div class="container-item col-sm-6">
+  <h3>Fast, Slow and Long Shutter Speeds</h3>
+  <p>A fast shutter speed is typically whatever it takes to freeze action. If you are photographing birds, that may be 1/1000th second or faster. However, for general photography of slower-moving subjects, you might be able to take pictures at 1/200th second, 1/100th second, or even longer without introducing motion blur.Long shutter speeds are typically above 1 second – at which point, you will need to use a tripod to get sharp images. You would use long shutter speeds for certain types of low-light / night photography, or to capture movement intentionally. If anything in your scene is moving when you use long shutter speeds, it will appear very blurry.</p>
+  </div>
 </div>
 
-  <div class="container-item col-sm-6">
-    <h3>What is ISO in photograph</h3>
-
-  <p>It still is a camera setting, but play with it can give your photographs a different look.There's always a trade-off between a higher ISO value and the nosie level of the photoshoot.Raising your ISO will always add grain to your photos, also referred to as noise in the previous sentence, so the resulting photo might not be as crisp and sharp as you'd like, thus, rendering it unusable. You should only raise your ISO when you are unable to brighten the photo via shutter speed or apertue instead (for example, if using a longer shutter speed would cause your subject to be blurry). That said, there are plenty of times when you'll need to use a high ISO to compensate for low light.</p>
   </div>
-  </div>
-
-</div>
-<!-- end contanter -->
+  <!-- end contanter -->

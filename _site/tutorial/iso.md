@@ -54,14 +54,8 @@ tags:
       high ISO to compensate for low light.</p>
   </div>
   <div class="container-item col-sm-6">
-  <h3>What is ISO in photograph</h3>
-  <p>It still is a camera setting, but play with it can give your photographs a different look.There's always a
-    trade-off between a higher ISO value and the nosie level of the photoshoot.Raising your ISO will always add
-    grain to your photos, also referred to as noise in the previous sentence, so the resulting photo might not be
-    as crisp and sharp as you'd like, thus, rendering it unusable. You should only raise your ISO when you are
-    unable to brighten the photo via shutter speed or apertue instead (for example, if using a longer shutter
-    speed would cause your subject to be blurry). That said, there are plenty of times when you'll need to use a
-    high ISO to compensate for low light.</p>
+  <h3>Common ISO Values</h3>
+  <p>What is ISO on a camera? Well, as explained before, it’s an option you can play around with. All cameras are different, but they all will include a common set of ISO values (commonly known as “stops”).You’ll usually see ISO values like 100, 200, 400, 800, 1600, 3200, 6400, and so on. You may hear the term “base ISO” often. That simply refers to your camera’s lowest native ISO setting. In most modern digital cameras, that setting is ISO 100.This is important, because the base ISO, or lowest ISO, gives you the sharpest photo with the least amount of noise. You should always try to use your camera’s base ISO to get the best quality images. However, that’s not always possible.Some cameras offer extended high and low values for ISO that will allow you to set your ISO above or below your camera’s native range. These are simulated ranges, however, and will reduce your image quality. It’s not recommended that you use them.</p>
   </div>
 </div>
 

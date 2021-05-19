@@ -1,31 +1,44 @@
 ---
-title: ISO
+title: aperture
 date: Created
 layout: page
 tags:
-  - tutorials
+- tutorials
 
 ---
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>ISO</title>
-<link rel="stylesheet" href="https://maxcdn.bootsrapcdn.com/bootstrap/3.4.1/css/bootstrao.min.css">
-<link rel="stylesheet" href="style.css">
-</head>
-<body>
+
 
 <div class="container">
-<div class="description-container">
+<div class="row pt-3">
 
-<img src=/images/iso.jpg alt="" class="img-responsive floating-image right">
-<h3>What does ISO mean?</h3>
-<p>Perhaps you have heard this term before, but not many know what the ISO abbreviation actually means. The acronym ‘ISO’ stands for International Organization for Standardization, a group that has created tens of thousands of technology and product standards, including those for film sensitivity.Back in the days of traditional film photography, ISO referred to the film’s sensitivity to light. You may have seen rolls of film with a 100, 200, or 400 ISO. The lower the number, the lower the sensitivity of the film.So, if you were shooting outside in bright daylight, you would buy ISO 100 film knowing that it would be exposed to a lot of sun.Alternatively, if you were planning to photograph an indoor event, you would buy ISO 400 film to capture brighter photos in a darker space. When the industry made the switch to digital, the term ISO was adopted to describe the sensitivity of the camera’s sensor, since it replaced film in cameras.</p>
+<div class="container-item col-sm-6">
+  <h3>What Is Aperture?</h3>
+  <p>The easiest definition for aperture is to say that it’s the opening of your lens. This adjustable “hole” in your lens is also called the diaphragm.The best way to understand the aperture definition is to think of it as the pupil of an eye. In low light conditions, the pupil is wider letting in as much light as possible. When there’s too much light, like direct sunlight, it shrinks to compensate for the amount of light. In photography, the lens of your camera works just like this.As the diameter of the aperture size changes, it allows more or less light onto the sensor. This depends on the situation and the scene being photographed.</p>
+</div>
+<div class="container-item col-sm-6">
+  <img src="/images/aperture.jpg" alt="" class="img-responsive">
+</div>
+</div>
+<div class="row mb-3 ">
+    <div class="container-item col-sm-6">
+      <img src="/images/aperture2.jpg" alt="" class="img-responsive ">
+  </div>
+  <div class="container-item col-sm-6">
 
-<img src=/images/iso2.jpg alt="" class="img-responsive floting-image left">
-<h3>How does ISO affect your photographs?</h3>
-<p>To understand how changing your ISO setting will affect your photographs, it help to look at the exposure triangle.Each of the three elements of the triangle works together to basicaly lighten or darken your image. When you ajust one of them, the other two are also affected. In the case of ISO, you'll always want to stick to the lowest number possible. When a high aperture is needed or when your subject is in motion and you have to decide between a blurry or a bit of noise,you bump your shutter speed.Don't worry if this is a bit confusing, we'll give you some scenarios a little later.</p>
+  <h3>How to Understand the Aperture Values?</h3>
+    <p>Aperture can be confusing sometimes. Some people will say a wide or narrow aperture, but others might say a large aperture number or a small one. What is the difference? A wide aperture refers to the wide opening in the lens, where an aperture like f/1.2 or f/1.8 is being discussed.Don’t worry if you don’t understand what these f/numbers are yet. This will be tackled in the next section, just follow along.A larger aperture number refers to the number of f/stop when f/22 or f/32 is being discussed. A large aperture number, a narrow or a small aperture are the same things. One talks about the size of the number and the other relates to the size of the opening in your lens.</p>
+  </div>
+</div>
+<div class="row mb-3">
+  <div class="container-item col-sm-6">
+    <h3>Which Aperture is Best for Landscape Photography?</h3>
+    <p>Smaller apertures like f/8 or f/16 are usually used to create a wider focus area. This is most commonly used in landscape photography.Just think of a scene with a lake in the foreground and mountains in the background. Here you have a great distance between the lake and the mountains, but you want to have as many things to be in focus as possible. To achieve this one, you have to set your aperture to a high f-stop number.</p>
+  </div>
+  <div class="container-item col-sm-6">
+  <h3>How Does Aperture Affect Bokeh?</h3>
+  <p>Another creative photography effect of a large aperture is bokeh. Bokeh is basically the out-of-focus blurry background of your image. It’s the most effective when you have a very shallow depth of field and a rich background. You can see it on the below picture how the city lights create this effect in the background, behind the subject.</p>
+  </div>
+</div>
 
-<h3>What is ISO in photograph</h3>
-<p>It still is a camera setting, but play with it can give your photographs a different look.There's always a trade-off between a higher ISO value and the nosie level of the photoshoot.Raising your ISO will always add grain to your photos, also referred to as noise in the previous sentence, so the resulting photo might not be as crisp and sharp as you'd like, thus, rendering it unusable. You should only raise your ISO when you are unable to brighten the photo via shutter speed or apertue instead (for example, if using a longer shutter speed would cause your subject to be blurry). That said, there are plenty of times when you'll need to use a high ISO to compensate for low light.</p>
+  </div>
+  <!-- end contanter -->
