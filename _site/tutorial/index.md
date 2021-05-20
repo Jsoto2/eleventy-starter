@@ -32,7 +32,7 @@ ISO</a></h2>
 </div>
 <div class="servicesBx">
 <h2><a href="/tutorial/exposure">Exposure</a></h2>
-<p></p>
+<p>Is exposure important</p>
 </div>
 <div class="servicesBx">
 <h2><a href="/tutorial/len">Lens</a></h2>
