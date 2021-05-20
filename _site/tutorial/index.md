@@ -20,15 +20,15 @@ ISO</a></h2>
   </div>
 <div class="servicesBx">
 <h2><a href="/tutorial/shutterspeed">Shutter Speed</a></h2>
-<p>How does Shutter Speed work</p>
+<p>How does shutter speed work</p>
 </div>
 <div class="servicesBx">
 <h2><a href="/tutorial/aperture">Aperture</a></h2>
-<p></p>
+<p>Where can you see the aperture </p>
 </div>
 <div class="servicesBx">
 <h2><a href="/tutorial/ruleofthird">Rule of Third</a></h2>
-<p></p>
+<p>Why is rule of third important</p>
 </div>
 <div class="servicesBx">
 <h2><a href="/tutorial/exposure">Exposure</a></h2>
